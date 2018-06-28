@@ -133,6 +133,10 @@ $yoda: #71cee6;
 	}
 }
 
+.no-padd {
+	padding: 0 !important;
+}
+
 .content-detail {
 	margin-top: 5%;
 
@@ -146,7 +150,7 @@ $yoda: #71cee6;
 
 		[class*="col-"] {
 		  margin-top: 15px;
-			
+
 			:first-child {
 				padding-left: 0 !important;
 			}

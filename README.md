@@ -25,6 +25,12 @@ Technology that used in this application is
 * If you need monitoring compile sass and react files, you can compile it with command `gulp watch`.
 * If you dont have gulp, you can install based on [gulp repository](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md).
 
+## Screenshot
+![Home](https://raw.githubusercontent.com/arfanfb/blanjaFE/master/sc/1.png)
+![Home-2](https://raw.githubusercontent.com/arfanfb/blanjaFE/master/sc/2.png)
+![Detail](https://raw.githubusercontent.com/arfanfb/blanjaFE/master/sc/3.png)
+![Detail-2](https://raw.githubusercontent.com/arfanfb/blanjaFE/master/sc/4.png)
+
 ## License
 
 This application is built on top of [reactjs](https://github.com/facebook/react/blob/master/PATENTS), but UI/UX design is strictly confidential just for internal use at [Blanja.com](https://www.blanja.com/) projects.

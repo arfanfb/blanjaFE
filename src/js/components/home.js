@@ -706,7 +706,7 @@ class Home extends Component {
             <div className="col-xs-10 col-sm-10	col-md-10 col-lg-10 pull-left maul">
               <div className="row"><h5>{(this.state.detail != null) ? this.state.detail.name : ""} Movies</h5></div>
             </div>
-            <div className="col-xs-2 col-sm-2	col-md-2 col-lg-2 small-text yoda hover" onClick={handler.allMovie.bind(this)}>
+            <div className="col-xs-2 col-sm-2	col-md-2 col-lg-2 small-text yoda hover pull-right no-padd" onClick={handler.allMovie.bind(this)}>
               {(this.state.detail != null ) ? ((this.state.detail.films.length > 4 ) ? "See More" : "") : ""}
             </div>
           </div>
